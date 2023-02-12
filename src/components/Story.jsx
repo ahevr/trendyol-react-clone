@@ -23,7 +23,7 @@ const Story = () => {
     };
 
     return (
-        <div className='container mx-auto'>
+        <div className='story'>
             <Slider {...settings}>
                 {story.length && story.map(story => (
                     <a href="." className='text-sm p-5 flex flex-col items-center text-center text-black  hover:text-orange-600 group'>

@@ -6,16 +6,18 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import React from 'react'
 import Banner from 'components/Banner';
+import PopulerProduct from 'components/PopulerProduct';
 
 const App = () => {
   return (
-    <div>
+    <div className='container mx-auto'>
       <TopHeader/>
       <Header/>
       <Menu/>
       <hr className='h-1 mt-5 ' />
       <Story />
       <Banner />
+      <PopulerProduct />
     </div>
   )
 }

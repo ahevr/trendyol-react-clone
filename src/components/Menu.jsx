@@ -2,7 +2,7 @@ import React from 'react'
 
 const Menu = () => {
     return (
-        <div className='container mx-auto'>
+        <div className='menu'>
             <div className='flex uppercase text-sm gap-6 text-center items-center justify-center mt-3'>
                 <a href="." className='text-black hover:text-orange-500 duration-300 font-openSans'>kadın</a>
                 <a href="." className='text-black hover:text-orange-500 duration-300 font-openSans'>erkek</a>

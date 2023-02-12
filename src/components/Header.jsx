@@ -8,7 +8,7 @@ import { SlBasket } from 'react-icons/sl';
 
 const Header = () => {
     return (
-        <div className='container mx-auto'>
+        <div className='header'>
             <div className="flex justify-between mt-4 items-center">
                 <img src="https://cdn.dsmcdn.com/web/logo/ty-web.svg" width={150} alt="" />
                 <div className='relative'>
