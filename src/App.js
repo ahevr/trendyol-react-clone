@@ -5,6 +5,7 @@ import TopHeader from 'components/TopHeader'
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
 import React from 'react'
+import Banner from 'components/Banner';
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <Menu/>
       <hr className='h-1 mt-5 ' />
       <Story />
+      <Banner />
     </div>
   )
 }
