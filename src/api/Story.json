@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2023/1/27/SanaoZel_202301271715.jpg",
+        "title": "Sana Özel"
+    },
+    {
+        "id": 2,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2022/3/7/Coksatanlar1_202203072239.png",
+        "title": "Sen De Al !"
+    },
+    {
+        "id": 3,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2022/11/29/Screenshot20221128At163430_202211290324.png",
+        "title": "Kurumsal"
+    },
+    {
+        "id": 4,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2020/12/30/EglenceWeb_202012301831.png",
+        "title": "Kodlar & Hizmetler"
+    },
+    {
+        "id": 5,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2023/1/27/Nike_202301271540.jpg",
+        "title": "Nike"
+    },
+    {
+        "id": 6,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2023/1/26/Apple_202301262111.jpg",
+        "title": "Apple"
+    },
+    {
+        "id": 7,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2023/1/28/Trendyolmilla_202301280120.jpg",
+        "title": "Trendyol Milla    "
+    },
+    {
+        "id": 8,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2023/1/27/PullBear_202301271558.jpg",
+        "title": "Pull&Bear"
+    },
+    {
+        "id": 9,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2023/1/28/Xiaomi_202301280236.jpg",
+        "title": "Xiaomi"
+    },
+    {
+        "id": 10,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2023/1/27/Puma_202301271558.jpg",
+        "title": "Puma"
+    },
+    {
+        "id": 1,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2023/1/27/SanaoZel_202301271715.jpg",
+        "title": "Sana Özel"
+    },
+    {
+        "id": 2,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2022/3/7/Coksatanlar1_202203072239.png",
+        "title": "Sen De Al !"
+    },
+    {
+        "id": 3,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2022/11/29/Screenshot20221128At163430_202211290324.png",
+        "title": "Kurumsal"
+    },
+    {
+        "id": 4,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2020/12/30/EglenceWeb_202012301831.png",
+        "title": "Kodlar & Hizmetler"
+    },
+    {
+        "id": 5,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2023/1/27/Nike_202301271540.jpg",
+        "title": "Nike"
+    },
+    {
+        "id": 6,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2023/1/26/Apple_202301262111.jpg",
+        "title": "Apple"
+    },
+    {
+        "id": 7,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2023/1/28/Trendyolmilla_202301280120.jpg",
+        "title": "Trendyol Milla    "
+    },
+    {
+        "id": 8,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2023/1/27/PullBear_202301271558.jpg",
+        "title": "Pull&Bear"
+    },
+    {
+        "id": 9,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2023/1/28/Xiaomi_202301280236.jpg",
+        "title": "Xiaomi"
+    },
+    {
+        "id": 10,
+        "image": "https://cdn.dsmcdn.com/mnresize/200/200/marketing/datascience/automation/2023/1/27/Puma_202301271558.jpg",
+        "title": "Puma"
+    }
+]

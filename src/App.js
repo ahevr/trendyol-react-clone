@@ -1,25 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from 'components/Header'
+import Menu from 'components/Menu'
+import Story from 'components/Story'
+import TopHeader from 'components/TopHeader'
+import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick-theme.css";
+import React from 'react'
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <TopHeader/>
+      <Header/>
+      <Menu/>
+      <hr className='h-1 mt-5 ' />
+      <Story />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
