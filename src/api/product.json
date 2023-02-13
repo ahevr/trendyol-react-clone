@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "image": "https://cdn.dsmcdn.com/ty524/product/media/images/20220906/18/169865223/93657770/1/1_org.jpg",
+        "brandName": "Xiaomi",
+        "title": "Mi TV Stick 4K Ultra HD Dolby Chromecast Android TV Media Player",
+        "price": 1.029,
+        "discoundPrice": 1.511
+    },
+    {
+        "id": 2,
+        "image": "https://cdn.dsmcdn.com/ty13/product/media/images/20200924/16/11737124/88586091/1/1_org.jpg",
+        "brandName": "Nike",
+        "title": "Nike Kadın Siyah Spor Ayakkabı BQ5776-001",
+        "price": 2.299,
+        "discoundPrice": 2.159
+    },
+    {
+        "id": 3,
+        "image": "https://cdn.dsmcdn.com/ty690/product/media/images/20230117/19/260509725/665506368/1/1_org.jpg",
+        "brandName": "Nike",
+        "title": "Nike Kadın Siyah Spor Ayakkabı BQ5776-001",
+        "price": 2.299,
+        "discoundPrice": 2.159
+    },
+    {
+        "id": 4,
+        "image": "https://cdn.dsmcdn.com/ty686/product/media/images/20230113/1/257561881/90948690/1/1_org.jpg",
+        "brandName": "Altınyıldız",
+        "title": "Erkek Siyah Polar Sweatshirt",
+        "price": 234,
+        "discoundPrice": 229
+    },
+    {
+        "id": 5,
+        "image": "https://cdn.dsmcdn.com/ty587/product/media/images/20221103/13/206624091/319168562/1/1_org.jpg",
+        "brandName": "Terliks",
+        "title": "Pukka Collection Içi Kürklü Ev Terliği",
+        "price": 550,
+        "discoundPrice": 320
+    },
+    {
+        "id": 6,
+        "image": "https://cdn.dsmcdn.com/ty524/product/media/images/20220906/18/169865223/93657770/1/1_org.jpg",
+        "brandName": "Xiaomi",
+        "title": "Mi TV Stick 4K Ultra HD Dolby Chromecast Android TV Media Player",
+        "price": 1.029,
+        "discoundPrice": 1.500
+    },
+    {
+        "id": 7,
+        "image": "https://cdn.dsmcdn.com/ty13/product/media/images/20200924/16/11737124/88586091/1/1_org.jpg",
+        "brandName": "Nike",
+        "title": "Nike Kadın Siyah Spor Ayakkabı BQ5776-001",
+        "price": 2.299,
+        "discoundPrice": 2.159
+    },
+    {
+        "id": 8,
+        "image": "https://cdn.dsmcdn.com/ty13/product/media/images/20200924/16/11737124/88586091/1/1_org.jpg",
+        "brandName": "Nike",
+        "title": "Nike Kadın Siyah Spor Ayakkabı BQ5776-001",
+        "price": 2.299,
+        "discoundPrice": 2.159
+    },
+    {
+        "id": 9,
+        "image": "https://cdn.dsmcdn.com/ty686/product/media/images/20230113/1/257561881/90948690/1/1_org.jpg",
+        "brandName": "Altınyıldız",
+        "title": "Erkek Siyah Polar Sweatshirt",
+        "price": 234,
+        "discoundPrice": 229
+    },
+    {
+        "id": 10,
+        "image": "https://cdn.dsmcdn.com/ty587/product/media/images/20221103/13/206624091/319168562/1/1_org.jpg",
+        "brandName": "Terliks",
+        "title": "Pukka Collection Içi Kürklü Ev Terliği",
+        "price": 550,
+        "discoundPrice": 320
+    },
+    {
+        "id": 11,
+        "image": "https://cdn.dsmcdn.com/ty524/product/media/images/20220906/18/169865223/93657770/1/1_org.jpg",
+        "brandName": "Xiaomi",
+        "title": "Mi TV Stick 4K Ultra HD Dolby Chromecast Android TV Media Player",
+        "price": 1.029,
+        "discoundPrice": 1.500
+    },
+    {
+        "id": 12,
+        "image": "https://cdn.dsmcdn.com/ty13/product/media/images/20200924/16/11737124/88586091/1/1_org.jpg",
+        "brandName": "Nike",
+        "title": "Nike Kadın Siyah Spor Ayakkabı BQ5776-001",
+        "price": 2.299,
+        "discoundPrice": 2.159
+    },
+    {
+        "id": 13,
+        "image": "https://cdn.dsmcdn.com/ty13/product/media/images/20200924/16/11737124/88586091/1/1_org.jpg",
+        "brandName": "Nike",
+        "title": "Nike Kadın Siyah Spor Ayakkabı BQ5776-001",
+        "price": 2.299,
+        "discoundPrice": 2.159
+    },
+    {
+        "id": 14,
+        "image": "https://cdn.dsmcdn.com/ty686/product/media/images/20230113/1/257561881/90948690/1/1_org.jpg",
+        "brandName": "Altınyıldız",
+        "title": "Erkek Siyah Polar Sweatshirt",
+        "price": 234,
+        "discoundPrice": 229
+    },
+    {
+        "id": 15,
+        "image": "https://cdn.dsmcdn.com/ty587/product/media/images/20221103/13/206624091/319168562/1/1_org.jpg",
+        "brandName": "Terliks",
+        "title": "Pukka Collection Içi Kürklü Ev Terliği",
+        "price": 550,
+        "discoundPrice": 320
+    }
+    
+]

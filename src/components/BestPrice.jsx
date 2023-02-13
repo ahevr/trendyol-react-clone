@@ -4,7 +4,7 @@ import Slider from "react-slick";
 import { useEffect, useState } from 'react';
 import pProductData from "api/product.json"
 
-const PopulerProduct = () => {
+const BestPrice = () => {
     const [pProduct, setpProduct] = useState([]);
     useEffect(() => {
         setpProduct(pProductData)
@@ -17,9 +17,10 @@ const PopulerProduct = () => {
         slidesToShow: 5,
         slidesToScroll: 5
     };
+
     return (
         <div className='bg-orange-50 border border-orange-100 rounded h-[370px] px-5 my-9 mt-5'>
-            <h2 className='mt-5 font-semibold'>Öne Çıkanlar</h2>
+            <h2 className='mt-5 font-semibold'>Çok Satanlar</h2>
 
             {/* <div className="grid grid-cols-5 gap-4">
                 <div className="relative flex flex-col text-center items-center h-[290px]  mt-2 bg-white rounded-xl border border-orange-100">
@@ -65,7 +66,8 @@ const PopulerProduct = () => {
                 ))}
             </Slider>
         </div>
+    
     )
 }
 
-export default PopulerProduct
+export default BestPrice

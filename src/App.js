@@ -7,6 +7,8 @@ import "slick-carousel/slick/slick-theme.css";
 import React from 'react'
 import Banner from 'components/Banner';
 import PopulerProduct from 'components/PopulerProduct';
+import CardTwo from 'components/CardTwo';
+import BestPrice from 'components/BestPrice';
 
 const App = () => {
   return (
@@ -18,6 +20,8 @@ const App = () => {
       <Story />
       <Banner />
       <PopulerProduct />
+      <CardTwo />
+      <BestPrice />
     </div>
   )
 }
